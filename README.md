@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 Im Dima, a junior python backend dev based in Poland.
+
 My main tech stack is python, django framework, DRF, Docker, postgreSQL.
 <!--
 **DIO23521/DIO23521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
